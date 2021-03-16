@@ -1,16 +1,15 @@
-### Hi there 👋
+## Assaultful Got Suspended
+My first github "Assaultful" got suspended and I lost all the projects on there <3
 
-<!--
-**assaultfulgg/assaultfulgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages!
+- Python
+- Golang
 
-Here are some ideas to get you started:
+### Socials!
+- [Twitter](https://twitter.com/assaultful)
+- [Discord Server](https://discord.com/invite/nolimit)
+- [YouTube](https://www.youtube.com/channel/UCIh5y4V8OOex6TuqRW22E5Q)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats!
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=assaultful2&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=assaultful2&theme=dark&show_icons=true)
